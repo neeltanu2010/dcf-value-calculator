@@ -9,7 +9,7 @@ import streamlit as st
 
 # =====================================================
 # FINANCIFY - FREE DCF VALUE CALCULATOR
-# Premium hook tool for Financify blog
+# Premium tool for Financify blog
 # =====================================================
 
 st.set_page_config(
@@ -1419,7 +1419,6 @@ st.markdown(f"""
     This free DCF tool helps users estimate value. But a serious investor should also check debt, ROE, ROCE, margin trend,
     CFO, FCF consistency, valuation comfort, bubble risk and market cycle. That is where your premium Financify tools become useful.
     </p>
-    <p><b>Hook idea:</b> Keep this DCF tool free. Then push users to Honey Scanner, Bubble Sniffer and Hive Cycle Predictor for deeper analysis.</p>
     <p>👉 <a href="{SURECART_CHECKOUT_URL}" target="_blank" style="color:#111;font-weight:950;">Upgrade to Financify Pro</a> &nbsp; | &nbsp;
     <a href="{TOOLS_PAGE_URL}" target="_blank" style="color:#111;font-weight:950;">Explore all Financify tools</a></p>
 </div>
