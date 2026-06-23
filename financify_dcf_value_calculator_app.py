@@ -4,7 +4,7 @@ from urllib.parse import quote_plus
 
 import numpy as np
 import pandas as pd
-import plotly.graph_objects as go
+import plotly as go
 import streamlit as st
 
 # =====================================================
